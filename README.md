@@ -1,6 +1,6 @@
 # AcuCare-Demo
 <p align="center">
-  <img src="screenshots/02-Deshboard.png" width="100%" />
+  <img src="screenshots/01-Login.png" width="100%" />
 </p>
 
 Enterprise-level Healthcare ERP demo developed using Blazor WebAssembly , ASP.NET Core Web API, TOAD for Oracle, and layered architecture for scalable healthcare operations.
