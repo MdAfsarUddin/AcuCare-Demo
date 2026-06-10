@@ -98,15 +98,6 @@ Layered enterprise healthcare architecture with reusable shared components and R
 <p align="center">
   <img src="screenshots/04-Page.png" width="100%" />
 </p>
-
----
-
-## Solution Architecture
-
-<p align="center">
-  <img src="screenshots/05-code-architechture.png" width="100%" />
-</p>
-
 ---
 
 ## Enterprise Highlights
